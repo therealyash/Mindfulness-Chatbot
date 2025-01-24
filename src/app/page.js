@@ -27,7 +27,7 @@ export default function Home() {
       <header style={styles.navbar}>
         <h2 style={styles.navTitle}>Mindfulness Chatbot</h2>
         <nav style={styles.navLinks}>
-          { "Mindfulness", "Stress Tips", "Meditation", "About"].map((item, index) => (
+          {["Mindfulness", "Stress Tips", "Meditation", "About"].map((item, index) => (
             <a
               key={index}
               href="#"
