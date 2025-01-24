@@ -1,1 +1,1 @@
-# Mindfulness-Chatbot
+# Mental-Health-Chatbot
