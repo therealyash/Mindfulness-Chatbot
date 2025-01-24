@@ -60,7 +60,7 @@ export default function Home() {
         </div>
       </main>
       <footer style={styles.footer}>
-        <p style={styles.footerText}>Designed by Yashraj Limkar, Prosenjeet Shil, Zeal Vira</p>
+        // <p style={styles.footerText}>Designed by Yashraj Limkar, Prosenjeet Shil, Zeal Vira</p>
       </footer>
 
       {/* Dynamic Popup */}
