@@ -13,7 +13,7 @@ The Mental Health Chatbot is designed to assist individuals in managing stress, 
 ![About the Chatbot](https://github.com/user-attachments/assets/6b61b7fa-303c-46ac-bd34-b06915e7624a)
 
 ### Working Demo
-[![Mental Health Chatbot Demo](https://img.youtube.com/vi/rJL-Pp8ydOU/maxresdefault.jpg)](https://youtu.be/rJL-Pp8ydOU)
+[![Mental Health Chatbot Demo](https://img.youtube.com/vi/YuRDvZcbAKA/maxresdefault.jpg)](https://youtu.be/YuRDvZcbAKA)
 
 ---
 
@@ -48,6 +48,7 @@ Follow these steps to install and run the project on your local machine:
    ```
    http://localhost:3000
    ```
+
 ---
 
 ## License
