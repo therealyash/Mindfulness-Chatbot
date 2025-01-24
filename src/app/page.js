@@ -27,7 +27,7 @@ export default function Home() {
       <header style={styles.navbar}>
         <h2 style={styles.navTitle}>Mindfulness Chatbot</h2>
         <nav style={styles.navLinks}>
-          {["Why Use Chatbot?", "Mindfulness", "Stress Tips", "Meditation", "About"].map((item, index) => (
+          { "Mindfulness", "Stress Tips", "Meditation", "About"].map((item, index) => (
             <a
               key={index}
               href="#"
@@ -73,7 +73,7 @@ export default function Home() {
             <h2 style={styles.popupHeading}>{activePopup}</h2>
             <p style={styles.popupText}>
               {activePopup === "About"
-                ? "I created the mental health chatbot to help people manage stress, anxiety, and other mental health issues in a simple and easy way. In today’s busy world, many people feel overwhelmed, and I wanted to build a tool that can provide support anytime."
+                ? "We created the mental health chatbot to help people manage stress, anxiety, and other mental health issues in a simple and easy way. In today’s busy world, many people feel overwhelmed, and we wanted to build a tool that can provide support anytime."
                 : activePopup === "Mindfulness"
                 ? "Mindfulness is about being present and fully engaged in the moment without judgment. To practice it, start small by dedicating just 5 minutes daily to focus on your breathing and notice the sensations around you. Pay attention to simple activities, like eating or walking, by observing the sounds, smells, and textures involved. Deep breathing is a great way to calm your mind—breathe in for four seconds, hold for four, and exhale for six."
                 : activePopup === "Meditation"
