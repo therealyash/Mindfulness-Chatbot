@@ -1,4 +1,4 @@
-# Mental-Health-Chatbot
+# Mindfulness-Chatbot
 
 The Mental Health Chatbot is designed to assist individuals in managing stress, anxiety, and other mental health challenges in a simple and accessible way. In today’s busy world, many people feel overwhelmed. This tool aims to provide support anytime, offering a stress-relieving solution for users.
 
@@ -31,19 +31,22 @@ Follow these steps to install and run the project on your local machine:
    cd mental-health-chatbot
    ```
 
-3. **Install Dependencies**
+3. **Get the OpenAI API Key**
+   Visit [AIMLAPI.com](https://aimlapi.com) to obtain your OpenAI API key. This key is required to enable the chatbot's core functionalities.
+
+4. **Install Dependencies**
    Make sure you have [Node.js](https://nodejs.org/) installed. Then, run the following command to install the required dependencies:
    ```bash
    npm install
    ```
 
-4. **Run the Development Server**
+5. **Run the Development Server**
    Start the development server with the following command:
    ```bash
    npm run dev
    ```
 
-5. **Access the Application**
+6. **Access the Application**
    Open your browser and navigate to:
    ```
    http://localhost:3000
@@ -54,4 +57,3 @@ Follow these steps to install and run the project on your local machine:
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
-
