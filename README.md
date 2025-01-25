@@ -12,7 +12,10 @@ The Mental Health Chatbot is designed to assist individuals in managing stress, 
 ### About
 ![About the Chatbot](https://github.com/user-attachments/assets/6b61b7fa-303c-46ac-bd34-b06915e7624a)
 
-### Working Demo
+### Live Demo  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://mindfulness-chatbot.vercel.app/)  
+
+### Working Demo Video
 [![Mental Health Chatbot Demo](https://img.youtube.com/vi/YuRDvZcbAKA/maxresdefault.jpg)](https://youtu.be/YuRDvZcbAKA)
 
 ---
